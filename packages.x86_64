@@ -122,12 +122,13 @@ feh
 picom
 paru
 neofetch
-polkit
 kitty
 rofi
+lxappearance
 
-#audio
-#pulseaudio
+#auth policy
+polkit
+lxsession
 
 #polybar & deps
 polybar
@@ -135,12 +136,12 @@ ttf-unifont
 siji
 xorg-fonts-misc
 
-#browser
-firefox
-alg-firefox-settings
-
 #lockscreen
 betterlockscreen
+
+#icons & theme
+tela-circle-icon
+qogir-gtk-theme-git
 
 #Installer
 grub

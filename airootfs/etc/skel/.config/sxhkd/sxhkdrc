@@ -8,11 +8,11 @@ super + Return
 
 # program launcher
 super + d
-	rofi -show run
+	rofi -show run -theme Monokai
 
 # program launcher (Apps)
 super + shift + d
-	rofi -show drun
+	rofi -show drun -theme Monokai -icon-theme "Tela-circle" -show-icons
 
 # make sxhkd reload its configuration files:
 super + Escape
