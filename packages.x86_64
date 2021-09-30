@@ -126,10 +126,6 @@ kitty
 rofi
 lxappearance
 
-#auth policy
-polkit
-lxsession
-
 #polybar & deps
 polybar
 ttf-unifont
@@ -146,5 +142,5 @@ qogir-gtk-theme-git
 #Installer
 grub
 calamares
-alg-min-cala-config
+alg-pure-cala-config
 os-prober
