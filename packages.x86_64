@@ -6,7 +6,6 @@ arch-install-scripts
 b43-fwcutter
 base
 bind-tools
-brltty
 broadcom-wl
 btrfs-progs
 clonezilla
@@ -66,7 +65,6 @@ nilfs-utils
 nmap
 ntfs-3g
 nvme-cli
-openconnect
 openssh
 openvpn
 partclone
